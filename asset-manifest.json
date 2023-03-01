@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TemplateFullStackDLPage/static/css/main.6ed0f14b.css",
-    "main.js": "/TemplateFullStackDLPage/static/js/main.d095e8b7.js",
-    "index.html": "/TemplateFullStackDLPage/index.html",
-    "main.6ed0f14b.css.map": "/TemplateFullStackDLPage/static/css/main.6ed0f14b.css.map",
-    "main.d095e8b7.js.map": "/TemplateFullStackDLPage/static/js/main.d095e8b7.js.map"
+    "main.css": "/ObjectDetection-Page/static/css/main.6ed0f14b.css",
+    "main.js": "/ObjectDetection-Page/static/js/main.d095e8b7.js",
+    "index.html": "/ObjectDetection-Page/index.html",
+    "main.6ed0f14b.css.map": "/ObjectDetection-Page/static/css/main.6ed0f14b.css.map",
+    "main.d095e8b7.js.map": "/ObjectDetection-Page/static/js/main.d095e8b7.js.map"
   },
   "entrypoints": [
     "static/css/main.6ed0f14b.css",
